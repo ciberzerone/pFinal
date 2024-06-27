@@ -298,3 +298,63 @@ If the link shown is the same as the main Ironhack repository, you will need to 
   [Back to top](#faqs)
 
 </details>
+
+
+
+
+# Circle Agency
+
+Circle is a digital design and development studio specializing in creating stunning websites and mobile applications.
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Customization](#customization)
+- [Additional Documentation](#additional-documentation)
+- [Warnings](#warnings)
+- [License](#license)
+- [Project Status](#project-status)
+- [Credits](#credits)
+- [Screenshots](#screenshots)
+
+## Description
+Circle provides comprehensive digital design and development services, focusing on delivering exceptional user interfaces and user experiences. They offer services in UI design, UX design, and application development.
+
+## Installation
+To explore Circle's services or start a project, visit their [website](https://midterm-circle-ironhack.netlify.app/).
+
+## Usage
+Circle can be used for:
+- Designing user interfaces that are both beautiful and accessible.
+- Creating user experiences that enhance customer satisfaction.
+- Developing high-quality web and mobile applications using the latest technologies.
+
+## Examples
+Circle has worked on various projects, including:
+- Simplify: A UI design and app development project.
+- Dashcoin: A web development project.
+- Vectorify: A user experience design project.
+
+## Customization
+Circle’s services can be tailored to meet specific business needs. For customization options, get in touch through their [contact page](https://midterm-circle-ironhack.netlify.app/#contact).
+
+## Additional Documentation
+For more detailed information about Circle’s services and portfolio, visit their [services page](https://midterm-circle-ironhack.netlify.app/#services) and [projects page](https://midterm-circle-ironhack.netlify.app/#projects).
+
+## Warnings
+The use of Circle’s services is at your own risk. We are not responsible for any damages that may arise from using our services.
+
+## License
+This project is licensed under the General Public License (GPLv3).
+
+## Project Status
+This project is currently in development.
+
+## Credits
+- **Kristin Watson**, Booking.com
+
+## Screenshots
+![Hero Image](https://midterm-circle-ironhack.netlify.app/assets/images/hero.jpg)
+![Projects](https://midterm-circle-ironhack.netlify.app/assets/images/projects.jpg)
