@@ -4,33 +4,17 @@
 
 <details>
   <summary>
-   <h2>Agencia Círculo</h2>
+  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.Agencia Círculo</h2>
   </summary>
 
-  This exercise allows you to practice and apply the concepts and techniques taught in class. 
-
-  Upon completion of this exercise, you will be able to:
-
-  - Properly structure a webpage using basic HTML tags (head, body, headings, paragraphs, images and lists)
-  - Create and link an external CSS stylesheet with an HTML document.
-  - Use *id* and *class* selectors to apply CSS styles to elements on a webpage.
-  - Display images in a webpage using HTML image tags and CSS `background` property.
-  - Submit completed work using Git and GitHub by creating a pull request.
+  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
 
   <br>
   <hr> 
 
 </details>
 
-
-
-
-
-
-
-
-
-# Circle Agency
+<h2> Circle Agency</h2>
 
 Circle is a digital design and development studio specializing in creating stunning websites and mobile applications.
 
@@ -46,42 +30,6 @@ Circle is a digital design and development studio specializing in creating stunn
 - [Project Status](#project-status)
 - [Credits](#credits)
 - [Screenshots](#screenshots)
-
-## Description
-Circle provides comprehensive digital design and development services, focusing on delivering exceptional user interfaces and user experiences. They offer services in UI design, UX design, and application development.
-
-## Installation
-To explore Circle's services or start a project, visit their [website](https://midterm-circle-ironhack.netlify.app/).
-
-## Usage
-Circle can be used for:
-- Designing user interfaces that are both beautiful and accessible.
-- Creating user experiences that enhance customer satisfaction.
-- Developing high-quality web and mobile applications using the latest technologies.
-
-## Examples
-Circle has worked on various projects, including:
-- Simplify: A UI design and app development project.
-- Dashcoin: A web development project.
-- Vectorify: A user experience design project.
-
-## Customization
-Circle’s services can be tailored to meet specific business needs. For customization options, get in touch through their [contact page](https://midterm-circle-ironhack.netlify.app/#contact).
-
-## Additional Documentation
-For more detailed information about Circle’s services and portfolio, visit their [services page](https://midterm-circle-ironhack.netlify.app/#services) and [projects page](https://midterm-circle-ironhack.netlify.app/#projects).
-
-## Warnings
-The use of Circle’s services is at your own risk. We are not responsible for any damages that may arise from using our services.
-
-## License
-This project is licensed under the General Public License (GPLv3).
-
-## Project Status
-This project is currently in development.
-
-## Credits
-- **Kristin Watson**, Booking.com
 
 ## Screenshots
 ![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
