@@ -17,7 +17,7 @@ Ironhack Frontend assignment project. The objective is to build and deploy a fic
 
 ## Live Demo
 - [View Netlify deployed demo](https://imaginative-rolypoly-8c493c.netlify.app/)
-- [View the presentation](link_to_presentation)
+- [View the presentation](https://imaginative-rolypoly-8c493c.netlify.app/pdf/presentacion.pdf)
 - [View the API endpoint](link_to_api_endpoint)
 
 ## Team Members
