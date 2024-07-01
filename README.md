@@ -1,28 +1,13 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | HTML & CSS & JS - PROYECTO FINAL Agencia Círculo
-
-<details>
-  <summary>
-  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.Agencia Círculo</h2>
-  </summary>
-
-  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
-
-  <br>
-  <hr> 
-
-</details>
-
-<h2> Circle Agency</h2>
-
-Circle is a digital design and development studio specializing in creating stunning websites and mobile applications.
+# LAB | HTML & CSS & JS - FINAL PROYECT FINAL
 
 ## Table of Contents
+- [Ironhack](#Ironhack)
 - [Description](#description)
-- [Installation](#installation)
+- [Mid](#Mid)
 - [Usage](#usage)
-- [Examples](#examples)
+- [Live Demo](#Live)
 - [Customization](#customization)
 - [Additional Documentation](#additional-documentation)
 - [Warnings](#warnings)
@@ -31,21 +16,19 @@ Circle is a digital design and development studio specializing in creating stunn
 - [Credits](#credits)
 - [Screenshots](#screenshots)
 
-## Screenshots
-![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
-![Projects](https://midterm-circle-ironhack.netlify.app/assets/images/projects.jpg)
-
-
-
-# Ironhack Mid-Term Project
-
-![Ironhack](link_to_logo_image)
-
 ## Ironhack Mid-Term Project
+![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
+
+## Description
+
+  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
+
+
+## Mid-Term Project
 
 Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
 
-### Live Demo
+## Live Demo
 - [View Netlify deployed demo](link_to_netlify_demo)
 - [View the presentation](link_to_presentation)
 - [View the API endpoint](link_to_api_endpoint)
