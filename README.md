@@ -2,25 +2,13 @@
 
 # LAB | HTML & CSS & JS - FINAL PROYECT FINAL
 
-## Table of Contents
-- [Ironhack](#Ironhack)
-- [Description](#description)
-- [Mid-Term Project](#Mid-Term)
-- [Usage](#usage)
-- [Live Demo](#Live)
-- [Customization](#customization)
-- [Additional Documentation](#additional-documentation)
-- [Warnings](#warnings)
-- [License](#license)
-- [Project Status](#project-status)
-
 
 ## Ironhack Mid-Term Project
 ![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
 
 ## Description
 
-  Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
+Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
 
 
 ## Mid-Term Project
@@ -28,7 +16,7 @@
 Ironhack Frontend assignment project. The objective is to build and deploy a fictitious fully responsive Circle company website using technologies such as HTML, CSS & JavaScript. Includes data fetching from an external Web API.
 
 ## Live Demo
-- [View Netlify deployed demo](link_to_netlify_demo)
+- [View Netlify deployed demo](https://imaginative-rolypoly-8c493c.netlify.app/)
 - [View the presentation](link_to_presentation)
 - [View the API endpoint](link_to_api_endpoint)
 
