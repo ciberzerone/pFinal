@@ -27,49 +27,6 @@
 
 
 
-<details>
-  <summary>How can I style an ordered list <code>ol</code> to use parentheses (e.g., 1), 2) ) instead of dots?</summary>
-  <br>
-
-You can use [CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters) to style an ordered list (`ol`) element to use parentheses (e.g., 1), 2) ). Here's how to do it:  
-
-
-1. First, you need to remove the default list style
-2. Next, you need to create a custom list counter using the `counter-increment` property.
-3. Last step is to use the `::before` pseudo selector to set the new style for the list markers using the custom list counter.
-
-
-
-```css
-ol {
-  /* 1. Remove the default list style */  
-  list-style: none;
-}
-
-ol > li {
-  /* 2. Create a custom list counter */  
-  counter-increment: listcounter;
-}
-
-ol > li::before {
-  /*3. Set the new style for the list markers */
-  content: counter(listcounter) ")";
-}
-```
-
-
-
-This will remove the default list style, create a new counter called `listcounter` and style the list markers to use parentheses and the current value of the `listcounter` counter.
-
-
-
-For more information on CSS Counters, check: [MDN -  Using CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters)
-
-
-
-  [Back to top](#faqs)
-</details>
-
 
 
 
@@ -127,7 +84,7 @@ This project is currently in development.
 - **Kristin Watson**, Booking.com
 
 ## Screenshots
-![Hero Image](https://midterm-circle-ironhack.netlify.app/assets/images/hero.jpg)
+![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
 ![Projects](https://midterm-circle-ironhack.netlify.app/assets/images/projects.jpg)
 
 
@@ -148,9 +105,8 @@ Ironhack Frontend assignment project. The objective is to build and deploy a fic
 ## Team Members
 | Name   | GitHub |
 |--------|--------|
-| Albert | [@albertsanle](https://github.com/albertsanle) |
-| Ester  | [@Ester79](https://github.com/Ester79) |
-| JA Reyes | [@jarDotNet](https://github.com/jarDotNet) |
+| Yimmy | [@ciberzerone](https://github.com/ciberzerone) |
+
 
 ## Objectives
 - **Creation of several pages:**
