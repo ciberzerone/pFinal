@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Ironhack](#Ironhack)
 - [Description](#description)
-- [Mid](#Mid)
+- [Mid-Term Project](#Mid-Term)
 - [Usage](#usage)
 - [Live Demo](#Live)
 - [Customization](#customization)
@@ -13,8 +13,7 @@
 - [Warnings](#warnings)
 - [License](#license)
 - [Project Status](#project-status)
-- [Credits](#credits)
-- [Screenshots](#screenshots)
+
 
 ## Ironhack Mid-Term Project
 ![Hero Image](https://imaginative-rolypoly-8c493c.netlify.app/assets/readme/prac1.png)
