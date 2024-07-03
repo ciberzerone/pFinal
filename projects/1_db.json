@@ -1,26 +1,26 @@
 [
     {
        "uuid":"4",
-        "name":"Lorem ipsum",
+        "name":"User Interface Design",
        "description":"Lorem ipsum",
        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/4.jpg?raw=true",
+       "image":"https://github.com/ciberzerone/pFinal/blob/main/assets/projects-section/7.jpg?raw=true",
        "completed_on":"June 10, 2021"
     },
     {
        "uuid":"3",
-       "name":"Vectorify",
-       "description":"User Experience Design",
-       "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/3.jpg?raw=true",
+       "name":"Application Development",
+       "description":"We develop high-quality ",
+       "content":"We develop high-quality mobile and web applications using the latest technology stack.",
+       "image":"https://github.com/ciberzerone/pFinal/blob/main/assets/projects-section/9.jpg?raw=true",
        "completed_on":"June 10, 2021"
     },
     {
        "uuid":"2",      
-       "name":"Dashcoinsa",
-       "description":"Web Development",
-       "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-       "image":"https://github.com/ironhack-jc/mid-term-api/blob/main/2.jpg?raw=true",
+       "name":"User Experience Design",
+       "description":"Circle always",
+       "content":"Circle always focuses on delivering the best user experience to your customers.",
+       "image":"https://github.com/ciberzerone/pFinal/blob/main/assets/projects-section/8.jpg?raw=true",
        "completed_on":"June 10, 2021"
     },
     {
