@@ -238,8 +238,7 @@ header * {
   .newsletter-suscribe,
   .newsletter input[type="button"] {
     width: 160px;
-    height: 24px;
-  } 
+  }
 }
 
 /* Footer */
@@ -288,9 +287,6 @@ header * {
   .newsletter-suscribe,
   .newsletter input[type="button"] {
     width: 200px;
-    height: 50px;
-
-    
   }
 }
 
