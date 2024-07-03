@@ -1,7 +1,7 @@
 window.addEventListener("load", async () => {
   try {
     const response = await fetch(
-      "https://imaginative-rolypoly-8c493c.netlify.app/projects"
+      "https://raw.githubusercontent.com/ciberzerone/pFinal/main/projects/0_db.json"
     );
     const data = await response.json();
 
