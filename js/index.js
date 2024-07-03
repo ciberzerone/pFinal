@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('../path/to/0_db.json')  // Actualiza la ruta a tu archivo JSON
+  fetch('https://imaginative-rolypoly-8c493c.netlify.app/projects/0_db.json')  // Actualiza la ruta a tu archivo JSON
     .then(response => response.json())
     .then(data => {
       loadProjectSection(data.projects);
