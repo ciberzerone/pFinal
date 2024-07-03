@@ -1,6 +1,6 @@
 window.addEventListener("load", async () => {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/ciberzerone/pFinal/main/projects/0_db.json");
+        const response = await fetch("https://raw.githubusercontent.com/ciberzerone/pFinal/main/projects/1_db.json");
         const data = await response.json();
 
         const mainProjectId = getQuerystringId();
@@ -68,7 +68,7 @@ function jsonProjectToOtherHtmlArticle(project) {
 
     const projectHTML = `
         <article class="project-card">
-            <a class="project-wrapper" href="../pages/projects.html?id=${project.uuid}">
+            <a class="project-wrapper" href="../pages/services.html?id=${project.uuid}">
                 <img class="img-project" src="${project.image}" alt="${project.name} image" />
                 <div class="project-inner-card">
                     <h4 class="project-title">${project.name}</h4>
