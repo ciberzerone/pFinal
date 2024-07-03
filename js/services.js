@@ -73,7 +73,7 @@ function jsonProjectToOtherHtmlArticle(project) {
                 <div class="project-inner-card">
                     <h4 class="project-title">${project.name}</h4>
                     <p class="project-description capitalize">${project.description}</p>
-                    <a class="learn-more" href="../pages/projects.html?id=${project.uuid}">Learn more</a>
+                    <a class="learn-more" href="../pages/services.html?id=${project.uuid}">Learn more</a>
                 </div>
             </a>
         </article>
