@@ -61,9 +61,7 @@ window.addEventListener("load", async () => {
     const learnMoreLink = document.createElement("a");
     learnMoreLink.className = "learn-more";
     learnMoreLink.innerHTML = "Learn more";
-    learnMoreLink.setAttribute(
-      "href",
-      `./pages/projects.html?id=${project.uuid}`
+    learnMoreLink.setAttribute("href",`./pages/projects.html?id=${project.uuid}`
     );
     divInnerCard.appendChild(learnMoreLink);
   
