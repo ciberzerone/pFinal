@@ -5,38 +5,17 @@ window.addEventListener("load", async () => {
     );
     const data = await response.json();
 
-    const mainProject = data.find(project => project.uuid === '1'); // Cambia '1' por el UUID del proyecto principal
-    loadMainProject(mainProject);
+    var articles = data.reverse().slice(0, 3).map(jsonProjectToHtmlArticle);
 
-    const otherProjects = data.filter(project => project.uuid !== '1'); // Cambia '1' por el UUID del proyecto principal
-    loadOtherProjects(otherProjects);
+    const container = document.querySelector("div.projects-container");
+    container.innerHTML = "";
+    articles.forEach((article) => container.appendChild(article));
   } catch (error) {
     console.log(error);
   } finally {
     document.querySelector("section.recent-projects").removeAttribute("hidden");
   }
 });
-
-function loadMainProject(project) {
-  if (project) {
-    document.querySelector('.title').textContent = project.name;
-    document.querySelector('.UI-design-title').textContent = project.description;
-    document.querySelector('.completed-title-data').textContent = project.completed_on;
-    document.querySelector('.project-image').src = project.image;
-    document.querySelector('.project-image').alt = project.name;
-    document.querySelector('.project-description').innerHTML = project.content;
-  }
-}
-
-function loadOtherProjects(projects) {
-  const projectsContainer = document.querySelector("div.projects-container");
-  projectsContainer.innerHTML = "";
-
-  projects.forEach(project => {
-    const article = jsonProjectToHtmlArticle(project);
-    projectsContainer.appendChild(article);
-  });
-}
 
 function jsonProjectToHtmlArticle(project) {
   const article = document.createElement("article");
@@ -82,7 +61,10 @@ function createProjectInnerCard(project) {
   const learnMoreLink = document.createElement("a");
   learnMoreLink.className = "learn-more";
   learnMoreLink.innerHTML = "Learn more";
-  learnMoreLink.setAttribute("href", `./pages/projects.html?id=${project.uuid}`);
+  learnMoreLink.setAttribute(
+    "href",
+    `./pages/projects.html?id=${project.uuid}`
+  );
   divInnerCard.appendChild(learnMoreLink);
 
   return divInnerCard;
