@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('https://github.com/ciberzerone/pFinal/tree/main/projects')  // Actualiza la ruta a tu archivo JSON
+  fetch('https://github.com/ciberzerone/pFinal/blob/main/projects/0_db.json')  // Actualiza la ruta a tu archivo JSON
     .then(response => response.json())
     .then(data => {
       loadProjectSection(data.projects);
