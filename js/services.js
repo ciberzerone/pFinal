@@ -60,7 +60,7 @@ function addOtherProjects(projects) {
     const container = document.querySelector("div.projects-container");
     container.innerHTML = articlesHTML;
 }
-
+ 
 function jsonProjectToOtherHtmlArticle(project) {
     if (!project) {
         return;
